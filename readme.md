@@ -14,5 +14,3 @@
 
 # set up git for this
 
-not done yet
-
