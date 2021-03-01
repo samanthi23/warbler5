@@ -19,6 +19,7 @@ const userSchema = new mongoose.Schema({
   profileImageUrl: {
     type: String
   },
+  // an array of Object ids
   messages: [
     {
       type: mongoose.Schema.Types.ObjectId,
